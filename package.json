@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chhatrapati@bitbucket.org/chhatrapati/testusername.git"
+  },
+  "author": "murari",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/chhatrapati/testusername#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6"
+  }
+}
